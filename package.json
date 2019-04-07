@@ -1,0 +1,28 @@
+{
+  "name": "coffetoken",
+  "version": "1.0.0",
+  "description": "a telegram bot app",
+  "main": "test2.js",
+  "scripts": {
+    "start": "node test2.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silentfatez/coffee-credits"
+  },
+  "author": "Keith Goh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silentfatez/coffee-credits/issues"
+  },
+  "homepage": "https://github.com/silentfatez/coffee-credits#readme",
+  "dependencies": {
+    "firebase": "^5.9.3",
+    "firebase-admin": "^7.2.0",
+    "open-graph-scraper": "^3.6.1",
+    "telegraf": "^3.28.0"
+  },
+  "engines": {
+    "node":"10.15.3"
+  }
+}
